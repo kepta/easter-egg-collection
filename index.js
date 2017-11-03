@@ -1552,6 +1552,7 @@ function bravo() {
   };
 
   let init = function(data) {
+    return;
     document.addEventListener("keyup", record);
   };
 
@@ -1722,6 +1723,7 @@ function pikarun() {
   };
 
   let init = function(data) {
+    return;
     document.addEventListener("keyup", record);
   };
 
@@ -1781,6 +1783,7 @@ function catrun() {
   };
 
   let init = function(data) {
+    return;
     document.addEventListener("keyup", record);
   };
 
@@ -1922,6 +1925,7 @@ function sonic() {
   };
 
   let init = function(data) {
+    return;
     document.addEventListener("keyup", record);
   };
 
@@ -1980,6 +1984,7 @@ function doggy() {
   };
 
   let init = function(data) {
+    return;
     document.addEventListener("keyup", record);
   };
 
@@ -2097,6 +2102,7 @@ function gun() {
   };
 
   let init = function(data) {
+    return;
     document.addEventListener("keyup", record);
   };
 
@@ -2211,6 +2217,7 @@ function homer() {
   };
 
   let init = function(data) {
+    return;
     document.addEventListener("keyup", record);
   };
 
@@ -2269,6 +2276,7 @@ function dog() {
   };
 
   let init = function(data) {
+    return;
     document.addEventListener("keyup", record);
   };
 
@@ -2327,6 +2335,7 @@ function bird() {
   };
 
   let init = function(data) {
+    return;
     document.addEventListener("keyup", record);
   };
 
@@ -2558,6 +2567,7 @@ function nyancat() {
   };
 
   let init = function(data) {
+    return;
     document.addEventListener("keyup", record);
   };
 
@@ -2727,6 +2737,7 @@ function dragon() {
   };
 
   let init = function(data) {
+    return;
     document.addEventListener("keyup", record);
   };
 
@@ -2842,6 +2853,7 @@ function piggy() {
   };
 
   let init = function(data) {
+    return;
     document.addEventListener("keyup", record);
   };
 
@@ -3067,6 +3079,7 @@ function mario() {
   };
 
   let init = function(data) {
+    return;
     document.addEventListener("keyup", record);
   };
 
@@ -3349,6 +3362,7 @@ function handsome() {
   };
 
   let init = function(data) {
+    return;
     document.addEventListener("keyup", record);
   };
 
@@ -3465,6 +3479,7 @@ function swim() {
   };
 
   let init = function(data) {
+    return;
     document.addEventListener("keyup", record);
   };
 
@@ -3578,6 +3593,7 @@ function earth() {
   };
 
   let init = function(data) {
+    return;
     document.addEventListener("keyup", record);
   };
 
@@ -3747,6 +3763,7 @@ function board() {
   };
 
   let init = function(data) {
+    return;
     document.addEventListener("keyup", record);
   };
 
@@ -3806,6 +3823,7 @@ function haters() {
   };
 
   let init = function(data) {
+    return;
     document.addEventListener("keyup", record);
   };
 
@@ -3865,6 +3883,7 @@ function onmyway() {
   };
 
   let init = function(data) {
+    return;
     document.addEventListener("keyup", record);
   };
 
@@ -3979,6 +3998,7 @@ function kirby() {
   };
 
   let init = function(data) {
+    return;
     document.addEventListener("keyup", record);
   };
 
@@ -4038,6 +4058,7 @@ function hangover() {
   };
 
   let init = function(data) {
+    return;
     document.addEventListener("keyup", record);
   };
 
@@ -4209,6 +4230,7 @@ function walk() {
   };
 
   let init = function(data) {
+    return;
     document.addEventListener("keyup", record);
   };
 
@@ -4382,6 +4404,7 @@ function pokeball() {
   };
 
   let init = function(data) {
+    return;
     document.addEventListener("keyup", record);
   };
 
@@ -4441,6 +4464,7 @@ function hippo() {
   };
 
   let init = function(data) {
+    return;
     document.addEventListener("keyup", record);
   };
 
@@ -4556,6 +4580,7 @@ function robot() {
   };
 
   let init = function(data) {
+    return;
     document.addEventListener("keyup", record);
   };
 
@@ -4615,6 +4640,7 @@ function bat() {
   };
 
   let init = function(data) {
+    return;
     document.addEventListener("keyup", record);
   };
 
@@ -4674,6 +4700,7 @@ function travel() {
   };
 
   let init = function(data) {
+    return;
     document.addEventListener("keyup", record);
   };
 
