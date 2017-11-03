@@ -1552,8 +1552,7 @@ function bravo() {
   };
 
   let init = function(data) {
-    return;
-    document.addEventListener("keyup", record);
+    return;document.addEventListener("keyup", record);
   };
 
   let data = "https://i.imgur.com/lbZ5rGI.gif";
@@ -1723,8 +1722,7 @@ function pikarun() {
   };
 
   let init = function(data) {
-    return;
-    document.addEventListener("keyup", record);
+    return;document.addEventListener("keyup", record);
   };
 
   let data = "https://i.imgur.com/g99m5gz.gif";
@@ -1783,8 +1781,7 @@ function catrun() {
   };
 
   let init = function(data) {
-    return;
-    document.addEventListener("keyup", record);
+    return;document.addEventListener("keyup", record);
   };
 
   let data = "https://i.imgur.com/QfJZlrI.gif";
@@ -1925,8 +1922,7 @@ function sonic() {
   };
 
   let init = function(data) {
-    return;
-    document.addEventListener("keyup", record);
+    return;document.addEventListener("keyup", record);
   };
 
   let data = "https://i.imgur.com/qgTCkPU.gif";
@@ -1984,8 +1980,7 @@ function doggy() {
   };
 
   let init = function(data) {
-    return;
-    document.addEventListener("keyup", record);
+    return;document.addEventListener("keyup", record);
   };
 
   let data = "https://i.imgur.com/PwxV3zM.gif";
@@ -2102,8 +2097,7 @@ function gun() {
   };
 
   let init = function(data) {
-    return;
-    document.addEventListener("keyup", record);
+    return;document.addEventListener("keyup", record);
   };
 
   let data = "https://i.imgur.com/jTSb37n.gif";
@@ -2217,8 +2211,7 @@ function homer() {
   };
 
   let init = function(data) {
-    return;
-    document.addEventListener("keyup", record);
+    return;document.addEventListener("keyup", record);
   };
 
   let data = "https://i.imgur.com/7EXwuS0.gif";
@@ -2276,8 +2269,7 @@ function dog() {
   };
 
   let init = function(data) {
-    return;
-    document.addEventListener("keyup", record);
+    return;document.addEventListener("keyup", record);
   };
 
   let data = "https://i.imgur.com/rJRRZw7.gif";
@@ -2335,8 +2327,7 @@ function bird() {
   };
 
   let init = function(data) {
-    return;
-    document.addEventListener("keyup", record);
+    return;document.addEventListener("keyup", record);
   };
 
   let data = "https://i.imgur.com/kNJKFTK.gif";
@@ -2567,8 +2558,7 @@ function nyancat() {
   };
 
   let init = function(data) {
-    return;
-    document.addEventListener("keyup", record);
+    return;document.addEventListener("keyup", record);
   };
 
   let data = "https://i.imgur.com/3kI22fU.gif";
@@ -2737,8 +2727,7 @@ function dragon() {
   };
 
   let init = function(data) {
-    return;
-    document.addEventListener("keyup", record);
+    return;document.addEventListener("keyup", record);
   };
 
   let data = "https://i.imgur.com/rTwSMR4.gif";
@@ -2853,8 +2842,7 @@ function piggy() {
   };
 
   let init = function(data) {
-    return;
-    document.addEventListener("keyup", record);
+    return;document.addEventListener("keyup", record);
   };
 
   let data = "https://i.imgur.com/QLA2RH0.gif";
@@ -3079,8 +3067,7 @@ function mario() {
   };
 
   let init = function(data) {
-    return;
-    document.addEventListener("keyup", record);
+    return;document.addEventListener("keyup", record);
   };
 
   let data = "https://i.imgur.com/QbN03gd.gif";
@@ -3362,8 +3349,7 @@ function handsome() {
   };
 
   let init = function(data) {
-    return;
-    document.addEventListener("keyup", record);
+    return;document.addEventListener("keyup", record);
   };
 
   let data = "https://i.imgur.com/rHFG4oe.gif";
@@ -3479,8 +3465,7 @@ function swim() {
   };
 
   let init = function(data) {
-    return;
-    document.addEventListener("keyup", record);
+    return;document.addEventListener("keyup", record);
   };
 
   let data = "https://i.imgur.com/D78gMhP.gif";
@@ -3593,8 +3578,7 @@ function earth() {
   };
 
   let init = function(data) {
-    return;
-    document.addEventListener("keyup", record);
+    return;document.addEventListener("keyup", record);
   };
 
   let data = "https://i.imgur.com/B3zjsAs.gif";
@@ -3763,8 +3747,7 @@ function board() {
   };
 
   let init = function(data) {
-    return;
-    document.addEventListener("keyup", record);
+    return;document.addEventListener("keyup", record);
   };
 
   let data = "https://i.imgur.com/QuNJknZ.gif";
@@ -3823,8 +3806,7 @@ function haters() {
   };
 
   let init = function(data) {
-    return;
-    document.addEventListener("keyup", record);
+    return;document.addEventListener("keyup", record);
   };
 
   let data = "https://i.imgur.com/rDAoT6H.gif";
@@ -3883,8 +3865,7 @@ function onmyway() {
   };
 
   let init = function(data) {
-    return;
-    document.addEventListener("keyup", record);
+    return;document.addEventListener("keyup", record);
   };
 
   let data = "https://i.imgur.com/f3TcTU6.gif";
@@ -3998,8 +3979,7 @@ function kirby() {
   };
 
   let init = function(data) {
-    return;
-    document.addEventListener("keyup", record);
+    return;document.addEventListener("keyup", record);
   };
 
   let data = "https://i.imgur.com/Ydfn7Bu.gif";
@@ -4058,8 +4038,7 @@ function hangover() {
   };
 
   let init = function(data) {
-    return;
-    document.addEventListener("keyup", record);
+    return;document.addEventListener("keyup", record);
   };
 
   let data = "https://i.imgur.com/Np8rIoY.gif";
@@ -4230,8 +4209,7 @@ function walk() {
   };
 
   let init = function(data) {
-    return;
-    document.addEventListener("keyup", record);
+    return;document.addEventListener("keyup", record);
   };
 
   let data = "https://i.imgur.com/R7oSZnR.gif";
@@ -4404,8 +4382,7 @@ function pokeball() {
   };
 
   let init = function(data) {
-    return;
-    document.addEventListener("keyup", record);
+    return;document.addEventListener("keyup", record);
   };
 
   let data = "https://i.imgur.com/bcM1F8u.gif";
@@ -4464,8 +4441,7 @@ function hippo() {
   };
 
   let init = function(data) {
-    return;
-    document.addEventListener("keyup", record);
+    return;document.addEventListener("keyup", record);
   };
 
   let data = "https://i.imgur.com/CLcdyJX.gif";
@@ -4580,8 +4556,7 @@ function robot() {
   };
 
   let init = function(data) {
-    return;
-    document.addEventListener("keyup", record);
+    return;document.addEventListener("keyup", record);
   };
 
   let data = "https://i.imgur.com/bVlyMT8.gif";
@@ -4640,8 +4615,7 @@ function bat() {
   };
 
   let init = function(data) {
-    return;
-    document.addEventListener("keyup", record);
+    return;document.addEventListener("keyup", record);
   };
 
   let data = "https://i.imgur.com/1REy1pJ.gif";
@@ -4700,8 +4674,7 @@ function travel() {
   };
 
   let init = function(data) {
-    return;
-    document.addEventListener("keyup", record);
+    return;document.addEventListener("keyup", record);
   };
 
   let data = "https://i.imgur.com/7CjK3g7.gif";
